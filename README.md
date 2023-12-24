@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <p></p>
 
 <h2>Passions & Interests</h2>
+<p>Aspiring to be a <b>Front-End Web Developer</b></p>
+<p>Interested in both <b>Web Development</b> and <b>Web Designing</b></p>
+<p>Interested in <b>UI/UX Design</b></p>
 
 <h2>Skills</h2>
 <div>
@@ -45,7 +48,7 @@ Here are some ideas to get you started:
 
 <h2>Learning Goals</h2>
 
-<h2>Fun facts / Hobbies</h2>
+<h2>How to Contact Me</h2>
 
-<h2>Contact Information</h2>
+<h2>Fun facts / Hobbies</h2>
 
