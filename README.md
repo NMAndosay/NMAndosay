@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
 <h2>ABOUT ME</h2>
+<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" height="250">
 <p>I am Noela Mae D. Andosay</p>
 
 <h2><img height="50" src="" alt="facts-icon">&nbsp;FACTS ABOUT ME</h2>
