@@ -3,7 +3,7 @@
 <h2>ABOUT ME</h2>
 <p>I am Noela Mae D. Andosay</p>
 
-<h2>FACTS ABOUT ME</h2>
+<h2><img height="50" src="" alt="facts-icon">&nbsp;FACTS ABOUT ME</h2>
 
 - <code>🧞 An aspiring <FONT COLOR="009FBD">Full-Stack Web Developer</FONT></code>
 - <code>🌱 Currently learning <FONT COLOR="D58BDD">Web Development</FONT></code>
@@ -13,7 +13,7 @@
 - <code>🌟 Interested in <FONT COLOR="CD5888">UI/UX Design</FONT> and <FONT COLOR="D58BDD">Web Development</FONT></code>
 - <code>⚡ Fun fact: <FONT COLOR="">...</FONT></code>
 
-<h2><img height="30" src="logo/mouse-pointer.png" alt="mouse-pointer">Skills</h2>
+<h2><img height="30" src="logo/mouse-pointer.png" alt="mouse-pointer-icon">&nbsp;&nbsp;Skills</h2>
 <div>
     <p><b><FONT COLOR="D35D6E">Learned / Quite Familiar with:</FONT></b></p>
     <code><a href="https://www.python.org/" target="_blank"><img height="30" src="logo/python-logo.png" alt="python-logo"></a></code>
@@ -36,7 +36,7 @@
     <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 </div>
 
-<h2>How to Contact Me</h2>
+<h2><img height="30" src="logo/phone.png" alt="phone-icon">&nbsp;&nbsp;How to Contact Me</h2>
 <code><a href="https://www.facebook.com/nmdandosay13/"><img height="30" src="logo/facebook-logo.png" alt="facebook-logo"/></a></code>
 <code><a href="https://www.hackerrank.com/profile/NoelaAndosay"><img height="30" src="logo/hackerrank-logo.png" alt="hackerrank-logo"/></a></code>
 <code><a href="https://github.com/NMAndosay"><img height="30" src="logo/github-logo.png" alt="github-logo"/></a></code>
