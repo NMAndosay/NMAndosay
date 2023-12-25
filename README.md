@@ -1,56 +1,47 @@
-### Hi there, I am Noela! 👋
-
-<!--
-**NMAndosay/NMAndosay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there! 👋
 
 <h2>ABOUT ME</h2>
-<p></p>
+<p>I am Noela Mae D. Andosay</p>
 
-<h2>Passions & Interests</h2>
-<p>Aspiring to be a <b>Front-End Web Developer</b></p>
-<p>Interested in both <b>Web Development</b> and <b>Web Designing</b></p>
-<p>Interested in <b>UI/UX Design</b></p>
+<h2>FACTS ABOUT ME</h2>
 
-<h2>Skills</h2>
+- <code>🧞 An aspiring <FONT COLOR="009FBD">Full-Stack Web Developer</FONT></code>
+- <code>🌱 Currently learning <FONT COLOR="D58BDD">Web Development</FONT></code>
+- <code>👩🏻‍🎓 College Student Major in <FONT COLOR="59CE8F">Computer Science</FONT></code>
+- <code>🏫 Studying at <FONT COLOR="F45050">Mapúa Malayan Colleges Laguna</FONT></code>
+- <code>😄 Pronouns: <FONT COLOR="EE99A0">She/Her</FONT></code>
+- <code>🌟 Interested in <FONT COLOR="CD5888">UI/UX Design</FONT> and <FONT COLOR="D58BDD">Web Development</FONT></code>
+- <code>⚡ Fun fact: <FONT COLOR="">...</FONT></code>
+
+<h2><img height="30" src="logo/mouse-pointer.png" alt="mouse-pointer">Skills</h2>
 <div>
-    <p><b>Programming Languages</b></p>
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python-logo" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp-logo"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp-logo"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-logo"/>
+    <p><b><FONT COLOR="D35D6E">Learned / Quite Familiar with:</FONT></b></p>
+    <code><a href="https://www.python.org/" target="_blank"><img height="30" src="logo/python-logo.png" alt="python-logo"></a></code>
+    <code><a href="https://www.w3schools.com/cs/index.php/" target="_blank"><img height="30" width="30" src="logo/csharp-logo.png" alt="csharp-logo"></a></code>
+    <code><a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"><img height="30" width="30" src="logo/cpp-logo.png" alt="cpp-logo"></a></code>
+    <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="logo/html-logo.png" alt="html-logo"></a></code>
+    <code><a href="https://www.arduino.cc/" target="_blank"><img height="30" src="logo/arduino-logo.png" alt="arduino-logo"></a></code>
+    <code><a href="https://www.canva.com/" target="_blank"><img height="30" src="logo/canva-logo.png" alt="canva-logo"></a></code>
+    <code><a href="https://www.figma.com/" target="_blank"><img height="30" src="logo/figma-logo.jpg" alt="figma-logo"></a></code>
+    <code><a href="https://code.visualstudio.com/" target="_blank"><img height="30" src="logo/vscode-logo.png" alt="vscode-logo"></a></code>
 </div>
-
+<br>
 <div>
-    <p><b>Frontend Development</b></p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+    <p><b><FONT COLOR="D35D6E">Looking forward to learn:</FONT></b></p>
+    <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="logo/css-logo.png" alt="css-logo"></a></code>
+    <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
+    <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img height="30" src="logo/photoshop-logo.png" alt="photoshop-logo"></a></code>
+    <code><a href="https://www.adobe.com/ph_en/products/illustrator.html" target="_blank"><img height="30" src="logo/illustrator-logo.png" alt="illustrator-logo"></a></code>
+    <code><a href="https://inkscape.org/" target="_blank"><img height="30" src="logo/inkscape-logo.png" alt="inkscape-logo"></a></code>
+    <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 </div>
-
-<div>
-    <p><b>Design Software</b></p>
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva-logo"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma-logo"/>
-</div>
-
-
-
-<h2>Learning Goals</h2>
 
 <h2>How to Contact Me</h2>
-<a href="https://www.facebook.com/nmdandosay13/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-logo"/></a>
-<a href="https://www.hackerrank.com/profile/NoelaAndosay"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank-logo"/></a>
+<code><a href="https://www.facebook.com/nmdandosay13/"><img height="30" src="logo/facebook-logo.png" alt="facebook-logo"/></a></code>
+<code><a href="https://www.hackerrank.com/profile/NoelaAndosay"><img height="30" src="logo/hackerrank-logo.png" alt="hackerrank-logo"/></a></code>
+<code><a href="https://github.com/NMAndosay"><img height="30" src="logo/github-logo.png" alt="github-logo"/></a></code>
 
-<h2>Fun facts / Hobbies</h2>
+<h2>GIT COMMAND CHEAT SHEET</h2>
 
+<hr>
+<code>"The future belongs to those who believe in the beauty of their dreams."- Eleanor Roosevelt</code>
