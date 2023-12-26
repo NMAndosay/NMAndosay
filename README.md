@@ -1,20 +1,19 @@
-### Hi there! 👋
+<br>
 
-<h2>ABOUT ME</h2>
-<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" height="250">
-<p>I am Noela Mae D. Andosay</p>
+<img src="logo/name-banner.gif" alt="Jokes Card" />
 
-<h2><img height="50" src="" alt="facts-icon">&nbsp;FACTS ABOUT ME</h2>
+## <img height="40" src="logo/facts.png" alt="facts-icon">&nbsp;FACTS ABOUT ME
+<img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" height="225">
 
 - <code>🧞 An aspiring <FONT COLOR="009FBD">Full-Stack Web Developer</FONT></code>
 - <code>🌱 Currently learning <FONT COLOR="D58BDD">Web Development</FONT></code>
 - <code>👩🏻‍🎓 College Student Major in <FONT COLOR="59CE8F">Computer Science</FONT></code>
 - <code>🏫 Studying at <FONT COLOR="F45050">Mapúa Malayan Colleges Laguna</FONT></code>
 - <code>😄 Pronouns: <FONT COLOR="EE99A0">She/Her</FONT></code>
-- <code>🌟 Interested in <FONT COLOR="CD5888">UI/UX Design</FONT> and <FONT COLOR="D58BDD">Web Development</FONT></code>
+- <code>🌟 Interested in <FONT COLOR="CD5888">UI/UX Design</FONT> and <FONT COLOR="D58BDD"><br>Web Development</FONT></code>
 - <code>⚡ Fun fact: <FONT COLOR="">...</FONT></code>
 
-<h2><img height="30" src="logo/mouse-pointer.png" alt="mouse-pointer-icon">&nbsp;&nbsp;Skills</h2>
+## <img height="30" src="logo/mouse-pointer.png" alt="mouse-pointer-icon">&nbsp;&nbsp;Skills
 <div>
     <p><b><FONT COLOR="D35D6E">Learned / Quite Familiar with:</FONT></b></p>
     <code><a href="https://www.python.org/" target="_blank"><img height="30" src="logo/python-logo.png" alt="python-logo"></a></code>
@@ -37,12 +36,50 @@
     <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 </div>
 
-<h2><img height="30" src="logo/phone.png" alt="phone-icon">&nbsp;&nbsp;How to Contact Me</h2>
+## <img height="30" src="logo/phone.png" alt="phone-icon">&nbsp;&nbsp;How to Contact Me
 <code><a href="https://www.facebook.com/nmdandosay13/"><img height="30" src="logo/facebook-logo.png" alt="facebook-logo"/></a></code>
 <code><a href="https://www.hackerrank.com/profile/NoelaAndosay"><img height="30" src="logo/hackerrank-logo.png" alt="hackerrank-logo"/></a></code>
 <code><a href="https://github.com/NMAndosay"><img height="30" src="logo/github-logo.png" alt="github-logo"/></a></code>
 
-<h2>GIT COMMAND CHEAT SHEET</h2>
+## GIT COMMAND CHEAT SHEET
+<img align="left" height="50" src="logo/num-one.png" alt="numberone-icon">
 
+```md
+git clone git@github.com:example-user/example-repo.git
+```
+> [!IMPORTANT]\
+> This command is used to clone a remote repository to your local machine. It's typically the first command you run when you want to start working on a project that already exists on a remote server (like GitHub).
+
+<img align="left" height="50" src="logo/num-two.png" alt="numbertwo-icon">
+
+```md
+git add .
+```
+> [!IMPORTANT]\
+> This command is used to stage all the changes in the current directory for the next commit. It prepares the changes to be committed.
+
+<img align="left" height="50" src="logo/num-three.png" alt="numberthree-icon">
+
+```md
+git commit -m "Add new feature"
+```
+> [!IMPORTANT]\
+> This command is used to save the staged changes in the version history. The commit message should briefly describe the changes made in this commit.
+
+<img align="left" height="50" src="logo/num-four.png" alt="numberfour-icon">
+
+```md
+git status
+```
+> [!IMPORTANT]\
+> This command shows the status of changes as untracked, modified, or staged. It helps you understand the current state of your working directory.
+
+<img align="left" height="50" src="logo/num-five.png" alt="numberfive-icon">
+
+```md
+git log
+```
+> [!IMPORTANT]\
+>  This command displays a log of all commits in the repository, showing the commit history along with details such as author, date, and commit message.
 <hr>
 <code>"The future belongs to those who believe in the beauty of their dreams."- Eleanor Roosevelt</code>
