@@ -1,5 +1,4 @@
 <br/>
-
 <img src="logo/name-banner.gif" alt="name-banner" width="900px" align="center" />
 
 ## <img height="40" src="logo/facts.png" alt="facts-icon">&nbsp;FACTS ABOUT ME
@@ -107,7 +106,6 @@ git status
 
 <br/>
 <img align="left" height="50" src="logo/num-five.png" alt="numberfive-icon">
-
 ```md
 git log
 ```
