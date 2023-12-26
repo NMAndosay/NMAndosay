@@ -53,11 +53,6 @@
 ```md
 git clone git@github.com:example-user/example-repo.git
 ```
-<details>
-<summary>✒️ <b>Show Description</b></summary>
-
-<blockquote>
-
 > **[!IMPORTANT]**  
 > This command is used to clone a remote repository to your local machine. It's typically the first command you run when you want to start working on a project that already exists on a remote server (like GitHub).
 
@@ -65,16 +60,12 @@ git clone git@github.com:example-user/example-repo.git
 > **Parameters**: <br>
 > git@github.com:USER-NAME/REPOSITORY-NAME.git: The SSH URL of the remote repository.
 
-</blockquote></details>
-
+<br>
 <img align="left" height="50" src="logo/num-two.png" alt="numbertwo-icon">
 
 ```md
 git add .
 ```
-<details>
-<summary>✒️ <b>Show Description</b></summary>
-
 > **[!IMPORTANT]**  
 > This command is used to stage <i>all the changes</i> in the current directory for the next commit. It prepares the changes to be committed.
 
@@ -82,16 +73,12 @@ git add .
 > **Parameters**: <br>
 > '.' Represents the current directory. It specifies that you want to add all changes in the current directory and its subdirectories.
 
-</details>
-
+<br>
 <img align="left" height="50" src="logo/num-three.png" alt="numberthree-icon">
 
 ```md
 git commit -m "Add new feature"
 ```
-<details>
-<summary>✒️ <b>Show Description</b></summary>
-
 > **[!IMPORTANT]**  
 > This command is used to save the *staged changes* in the version history. The commit message should briefly describe the changes made in this commit.
 
@@ -99,37 +86,29 @@ git commit -m "Add new feature"
 > **Parameters**: <br>
 > -m "your commit message": This flag allows you to add a commit message directly from the command line.
 
-</details>
-
+<br>
 <img align="left" height="50" src="logo/num-four.png" alt="numberfour-icon">
 
 ```md
 git status
 ```
-<details>
-<summary>✒️ <b>Show Description</b></summary>
-
 > **[!IMPORTANT]**  
 > This command shows the <i>status of changes</i> as untracked, modified, or staged. It helps you understand the current state of your working directory.
 
 > **[!NOTE]**  
 > **Parameters**: <br> No additional parameters are needed for this command.
 
-</details>
-
+<br>
 <img align="left" height="50" src="logo/num-five.png" alt="numberfive-icon">
 
 ```md
 git log
 ```
-<details>
-<summary>✒️ <b>Show Description</b></summary>
-
 > **[!IMPORTANT]**  
 >  This command displays a <i>log of all commits</i> in the repository, showing the commit history along with details such as author, date, and commit message.
 
 > **[!NOTE]**  
 > **Parameters**: <br> No additional parameters are needed for this command.
 
-</details><br><hr><br>
+<br><hr><br>
 <center><img src="logo/quotes-pic.jpg" alt="quotes"></center>
