@@ -56,6 +56,7 @@ git clone git@github.com:example-user/example-repo.git
 <details>
 <summary>✒️ <b>Show Description</b></summary>
 
+<blockquote>
 
 > **[!IMPORTANT]**  
 > This command is used to clone a remote repository to your local machine. It's typically the first command you run when you want to start working on a project that already exists on a remote server (like GitHub).
@@ -64,7 +65,7 @@ git clone git@github.com:example-user/example-repo.git
 > **Parameters**: <br>
 > git@github.com:USER-NAME/REPOSITORY-NAME.git: The SSH URL of the remote repository.
 
-</details>
+</blockquote></details>
 
 <img align="left" height="50" src="logo/num-two.png" alt="numbertwo-icon">
 
