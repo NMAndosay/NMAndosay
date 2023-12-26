@@ -54,10 +54,10 @@
 git clone git@github.com:example-user/example-repo.git
 ```
 
-> **[!IMPORTANT]**  
+> [!IMPORTANT]\
 > This command is used to clone a remote repository to your local machine. It's typically the first command you run when you want to start working on a project that already exists on a remote server (like GitHub).
 
-> **[!NOTE]**  
+> [!NOTE]\
 > **Parameters**: <br>
 > git@github.com:USER-NAME/REPOSITORY-NAME.git: The SSH URL of the remote repository.
 
@@ -68,10 +68,10 @@ git clone git@github.com:example-user/example-repo.git
 git add .
 ```
 
-> **[!IMPORTANT]**  
+> [!IMPORTANT]\
 > This command is used to stage <i>all the changes</i> in the current directory for the next commit. It prepares the changes to be committed.
 
-> **[!NOTE]**  
+> [!NOTE]\ 
 > **Parameters**: <br>
 > '.' Represents the current directory. It specifies that you want to add all changes in the current directory and its subdirectories.
 
@@ -82,10 +82,10 @@ git add .
 git commit -m "Add new feature"
 ```
 
-> **[!IMPORTANT]**  
+> [!IMPORTANT]\
 > This command is used to save the *staged changes* in the version history. The commit message should briefly describe the changes made in this commit.
 
-> **[!NOTE]**  
+> [!NOTE]\
 > **Parameters**: <br>
 > -m "your commit message": This flag allows you to add a commit message directly from the command line.
 
@@ -96,10 +96,10 @@ git commit -m "Add new feature"
 git status
 ```
 
-> **[!IMPORTANT]**  
+> [!IMPORTANT]\ 
 > This command shows the <i>status of changes</i> as untracked, modified, or staged. It helps you understand the current state of your working directory.
 
-> **[!NOTE]**  
+> [!NOTE]\
 > **Parameters**: <br> No additional parameters are needed for this command.
 
 <br>
@@ -109,10 +109,10 @@ git status
 git log
 ```
 
-> **[!IMPORTANT]**  
+> [!IMPORTANT]\
 >  This command displays a <i>log of all commits</i> in the repository, showing the commit history along with details such as author, date, and commit message.
 
-> **[!NOTE]**  
+> [!NOTE]\ 
 > **Parameters**: <br> No additional parameters are needed for this command.
 
 <br><hr><br>
