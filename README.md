@@ -2,7 +2,7 @@
 <img src="logo/name-banner.gif" alt="name-banner" width="900px" align="center" />
 
 ## <img height="40" src="logo/facts.png" alt="facts-icon">&nbsp;FACTS ABOUT ME
-<img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" height="225">
+<img align="right" src="logo/coding-cat.gif" height="225">
 
 - <code>🧞 An aspiring Full-Stack Web Developer</code>
 - <code>🌱 Currently learning Web Development</code>
