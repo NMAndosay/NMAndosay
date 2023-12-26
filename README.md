@@ -1,5 +1,6 @@
 <br/>
-<img src="logo/name-banner.gif" alt="name-banner" width="900px" align="center" />
+<img src="logo/intro-terminal.gif" alt="name-banner" width="900px" align="center" />
+<p align="center"><i>gif from <a href="https://www.terminalgif.com/">terminalgif.com</a></i></p>
 
 ## <img height="40" src="logo/facts.png" alt="facts-icon">&nbsp;FACTS ABOUT ME
 <img align="right" src="logo/coding-cat.gif" height="225">
@@ -12,7 +13,7 @@
 - <code>🌟 Interested in UI/UX Design and <br/>Web Development</code>
 
 
-<br>
+<br />
 
 ## <img height="30" src="logo/mouse-pointer.png" alt="mouse-pointer-icon">&nbsp;&nbsp;Skills
 <p><b>&gt;&gt; Learned / Quite Familiar with:</b></p>
@@ -50,7 +51,7 @@
 <br/>
 
 ## <img height="40" src="logo/computer.png" alt="phone-icon">&nbsp;&nbsp;GIT COMMAND CHEAT SHEET
-<img align="left" height="50" src="logo/num-one.png" alt="numberone-icon">
+<img align="left" height="50" src="logo/one.png" alt="numberone-icon">
 
 ```md
 git clone git@github.com:example-user/example-repo.git
@@ -64,7 +65,7 @@ git clone git@github.com:example-user/example-repo.git
 > git@github.com:USER-NAME/REPOSITORY-NAME.git: The SSH URL of the remote repository.
 
 <br/>
-<img align="left" height="50" src="logo/num-two.png" alt="numbertwo-icon">
+<img align="left" height="50" src="logo/two.png" alt="numbertwo-icon">
 
 ```md
 git add .
@@ -78,7 +79,7 @@ git add .
 > '.' Represents the current directory. It specifies that you want to add all changes in the current directory and its subdirectories.
 
 <br/>
-<img align="left" height="50" src="logo/num-three.png" alt="numberthree-icon">
+<img align="left" height="50" src="logo/three.png" alt="numberthree-icon">
 
 ```md
 git commit -m "Add new feature"
@@ -92,7 +93,7 @@ git commit -m "Add new feature"
 > -m "your commit message": This flag allows you to add a commit message directly from the command line.
 
 <br/>
-<img align="left" height="50" src="logo/num-four.png" alt="numberfour-icon">
+<img align="left" height="50" src="logo/four.png" alt="numberfour-icon">
 
 ```md
 git status
@@ -105,7 +106,7 @@ git status
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
 
 <br/>
-<img align="left" height="50" src="logo/num-five.png" alt="numberfive-icon">
+<img align="left" height="50" src="logo/five.png" alt="numberfive-icon">
 
 ```md
 git log
@@ -117,5 +118,6 @@ git log
 > [!NOTE]\
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
 
-<hr>
-<img src="logo/quotes-pic.jpg" alt="quotes" align="center" width="900px">
+<br />
+<hr align="center" style="border-top: dotted 10px;" /><br />
+<img src="logo/ending-cat.gif" alt="quotes" align="center" width="900px">
