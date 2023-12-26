@@ -1,6 +1,6 @@
 <br/>
 
-<img src="logo/name-banner.gif" alt="name-banner" align="center" />
+<img src="logo/name-banner.gif" alt="name-banner" width="900px" align="center" />
 
 ## <img height="40" src="logo/facts.png" alt="facts-icon">&nbsp;FACTS ABOUT ME
 <img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" height="225">
@@ -16,8 +16,8 @@
 <br>
 
 ## <img height="30" src="logo/mouse-pointer.png" alt="mouse-pointer-icon">&nbsp;&nbsp;Skills
-<div>
-    <p><b>&gt;&gt; Learned / Quite Familiar with:</b></p>
+<p><b>&gt;&gt; Learned / Quite Familiar with:</b></p>
+<div align="center">
     <code><a href="https://www.python.org/" target="_blank"><img height="30" src="logo/python-logo.png" alt="python-logo"></a></code>
     <code><a href="https://www.w3schools.com/cs/index.php/" target="_blank"><img height="30" width="30" src="logo/csharp-logo.png" alt="csharp-logo"></a></code>
     <code><a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"><img height="30" width="30" src="logo/cpp-logo.png" alt="cpp-logo"></a></code>
@@ -28,8 +28,8 @@
     <code><a href="https://code.visualstudio.com/" target="_blank"><img height="30" src="logo/vscode-logo.png" alt="vscode-logo"></a></code>
 </div>
 <br/>
-<div>
-    <p><b>&gt;&gt; Looking forward to learn:</b></p>
+<p><b>&gt;&gt; Looking forward to learn:</b></p>
+<div align="center">
     <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="logo/css-logo.png" alt="css-logo"></a></code>
     <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
     <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img height="30" src="logo/photoshop-logo.png" alt="photoshop-logo"></a></code>
@@ -41,9 +41,12 @@
 <br/>
 
 ## <img height="30" src="logo/phone.png" alt="phone-icon">&nbsp;&nbsp;How to Contact Me
-<code><a href="https://www.facebook.com/nmdandosay13/"><img height="30" src="logo/facebook-logo.png" alt="facebook-logo"/></a></code>
-<code><a href="https://www.hackerrank.com/profile/NoelaAndosay"><img height="30" src="logo/hackerrank-logo.png" alt="hackerrank-logo"/></a></code>
-<code><a href="https://github.com/NMAndosay"><img height="30" src="logo/github-logo.png" alt="github-logo"/></a></code>
+
+<div align="center">
+    <code><a href="https://www.facebook.com/nmdandosay13/"><img height="30" src="logo/facebook-logo.png" alt="facebook-logo"/></a></code>
+    <code><a href="https://www.hackerrank.com/profile/NoelaAndosay"><img height="30" src="logo/hackerrank-logo.png" alt="hackerrank-logo"/></a></code>
+    <code><a href="https://github.com/NMAndosay"><img height="30" src="logo/github-logo.png" alt="github-logo"/></a></code>
+</div>
 
 <br/>
 
@@ -116,4 +119,4 @@ git log
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
 
 <br/><hr>
-<img src="logo/quotes-pic.jpg" alt="quotes" align="center">
+<img src="logo/quotes-pic.jpg" alt="quotes" align="center" width="900px">
