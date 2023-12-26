@@ -53,6 +53,7 @@
 ```md
 git clone git@github.com:example-user/example-repo.git
 ```
+
 > **[!IMPORTANT]**  
 > This command is used to clone a remote repository to your local machine. It's typically the first command you run when you want to start working on a project that already exists on a remote server (like GitHub).
 
@@ -66,6 +67,7 @@ git clone git@github.com:example-user/example-repo.git
 ```md
 git add .
 ```
+
 > **[!IMPORTANT]**  
 > This command is used to stage <i>all the changes</i> in the current directory for the next commit. It prepares the changes to be committed.
 
@@ -79,6 +81,7 @@ git add .
 ```md
 git commit -m "Add new feature"
 ```
+
 > **[!IMPORTANT]**  
 > This command is used to save the *staged changes* in the version history. The commit message should briefly describe the changes made in this commit.
 
@@ -92,6 +95,7 @@ git commit -m "Add new feature"
 ```md
 git status
 ```
+
 > **[!IMPORTANT]**  
 > This command shows the <i>status of changes</i> as untracked, modified, or staged. It helps you understand the current state of your working directory.
 
@@ -104,6 +108,7 @@ git status
 ```md
 git log
 ```
+
 > **[!IMPORTANT]**  
 >  This command displays a <i>log of all commits</i> in the repository, showing the commit history along with details such as author, date, and commit message.
 
