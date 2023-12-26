@@ -117,5 +117,5 @@ git log
 > [!NOTE]\
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
 
-<br/><hr>
+<hr>
 <img src="logo/quotes-pic.jpg" alt="quotes" align="center" width="900px">
