@@ -2,7 +2,7 @@
 <img src="logo/intro-terminal.gif" alt="name-banner" width="900px" align="center" />
 <p align="center"><i>gif from <a href="https://www.terminalgif.com/">terminalgif.com</a></i></p>
 
-## <img height="40" src="logo/facts.png" alt="facts-icon">&nbsp;FACTS ABOUT ME
+## <img height="40" src="logo/facts-icon.png" alt="facts-icon">&nbsp;FACTS ABOUT ME
 <img align="right" src="logo/coding-cat.gif" height="225">
 
 - <code>🧞 An aspiring Full-Stack Web Developer</code>
@@ -15,7 +15,7 @@
 
 <br />
 
-## <img height="30" src="logo/mouse-pointer.png" alt="mouse-pointer-icon">&nbsp;&nbsp;Skills
+## <img height="40" src="logo/skills-icon.png" alt="myskills">&nbsp;&nbsp;Skills
 <p><b>&gt;&gt; Learned / Quite Familiar with:</b></p>
 <div align="center">
     <code><a href="https://www.python.org/" target="_blank"><img height="30" src="logo/python-logo.png" alt="python-logo"></a></code>
@@ -40,7 +40,7 @@
 
 <br/>
 
-## <img height="30" src="logo/phone.png" alt="phone-icon">&nbsp;&nbsp;How to Contact Me
+## <img height="30" src="logo/contact-icon.png" alt="mycontacts">&nbsp;&nbsp;How to Contact Me
 
 <div align="center">
     <code><a href="https://www.facebook.com/nmdandosay13/"><img height="30" src="logo/facebook-logo.png" alt="facebook-logo"/></a></code>
@@ -50,8 +50,8 @@
 
 <br/>
 
-## <img height="40" src="logo/computer.png" alt="phone-icon">&nbsp;&nbsp;GIT COMMAND CHEAT SHEET
-<img align="left" height="50" src="logo/one.png" alt="numberone-icon">
+## <img height="40" src="logo/cheatsheet-icon.png" alt="mycheatsheet">&nbsp;&nbsp;GIT COMMAND CHEAT SHEET
+<img align="left" height="50" src="logo/number-one.png" alt="num-one-icon">
 
 ```md
 git clone git@github.com:example-user/example-repo.git
@@ -65,7 +65,7 @@ git clone git@github.com:example-user/example-repo.git
 > git@github.com:USER-NAME/REPOSITORY-NAME.git: The SSH URL of the remote repository.
 
 <br/>
-<img align="left" height="50" src="logo/two.png" alt="numbertwo-icon">
+<img align="left" height="50" src="logo/number-two.png" alt="num-two-icon">
 
 ```md
 git add .
@@ -79,7 +79,7 @@ git add .
 > '.' Represents the current directory. It specifies that you want to add all changes in the current directory and its subdirectories.
 
 <br/>
-<img align="left" height="50" src="logo/three.png" alt="numberthree-icon">
+<img align="left" height="50" src="logo/number-three.png" alt="num-three-icon">
 
 ```md
 git commit -m "Add new feature"
@@ -93,7 +93,7 @@ git commit -m "Add new feature"
 > -m "your commit message": This flag allows you to add a commit message directly from the command line.
 
 <br/>
-<img align="left" height="50" src="logo/four.png" alt="numberfour-icon">
+<img align="left" height="50" src="logo/number-four.png" alt="num-four-icon">
 
 ```md
 git status
@@ -106,7 +106,7 @@ git status
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
 
 <br/>
-<img align="left" height="50" src="logo/five.png" alt="numberfive-icon">
+<img align="left" height="50" src="logo/number-five.png" alt="num-five-icon">
 
 ```md
 git log
@@ -119,5 +119,5 @@ git log
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
 
 <br />
-<hr align="center" style="border-top: dotted 10px;" /><br />
+<hr><br />
 <img src="logo/ending-cat.gif" alt="quotes" align="center" width="900px">
