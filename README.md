@@ -123,6 +123,33 @@ git log
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
 > <br><br><b>Example</b>: <code>git log</code>
 
+<br>
+
+<h1> Additional Commands </h1>
+<h2>1. 'git checkout'</h2>
+
+```md
+git checkout branch_name
+```
+
+> [!IMPORTANT]\
+>  The purpose of this command is to switch branches or restore working tree files.
+
+> [!NOTE]\
+> <b>Parameters</b>: <br/> 'branch_name': name of the branch you want to switch to <br> '-b <new_branch>': creates a new branch and switches to it <br> '<commit_hash> -- <file>: restores a specific file from a particular commit.
+
+<h2>2. 'git pull'</h2>
+
+```md
+git pull origin main
+```
+> [!IMPORTANT]\
+>  The purpose of this command is to fetch changes from a repository and merges them into the local branch.
+
+> [!NOTE]\
+> <b>Parameters</b>: <br/> 'origin': name of the remote repository. <br> 'main': name of the branch from which changes are fetched and merged.
+
+
 <br />
 <hr><br />
 <img src="logo/ending-cat.gif" alt="quotes" align="center" width="900px">
