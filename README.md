@@ -123,13 +123,12 @@ git log
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
 > <br><br><b>Example</b>: <code>git log</code>
 
-<br> <br>
+<br/>
+<img align="left" height="50" src="logo/number-six.png" alt="num-six-icon">
 
-<h1> Additional Commands </h1>
-<h2>1. 'git checkout'</h2>
 
 ```md
-git checkout branch_name
+git checkout 
 ```
 
 > [!IMPORTANT]\
@@ -137,18 +136,20 @@ git checkout branch_name
 
 > [!NOTE]\
 > <b>Parameters</b>: <br/> 'branch_name': name of the branch you want to switch to <br> '-b <new_branch>': creates a new branch and switches to it <br> '<commit_hash> -- <file>: restores a specific file from a particular commit.
+> <br><br><b>Example</b>: <code>git checkout branch_name</code>
 
-<h2>2. 'git pull'</h2>
+<br/>
+<img align="left" height="50" src="logo/number-seven.png" alt="num-seven-icon">
 
 ```md
-git pull origin main
+git pull 
 ```
 > [!IMPORTANT]\
 >  The purpose of this command is to fetch changes from a repository and merges them into the local branch.
 
 > [!NOTE]\
 > <b>Parameters</b>: <br/> 'origin': name of the remote repository. <br> 'main': name of the branch from which changes are fetched and merged.
-
+> <br><br><b>Example</b>: <code>git pull origin main</code>
 
 <br />
 <hr><br />
