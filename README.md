@@ -123,7 +123,7 @@ git log
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
 > <br><br><b>Example</b>: <code>git log</code>
 
-<br>
+<br> <br>
 
 <h1> Additional Commands </h1>
 <h2>1. 'git checkout'</h2>
