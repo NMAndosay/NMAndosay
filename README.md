@@ -63,6 +63,7 @@ git clone git@github.com:example-user/example-repo.git
 > [!NOTE]\
 > <b>Parameters</b>: <br/>
 > git@github.com:USER-NAME/REPOSITORY-NAME.git: The SSH URL of the remote repository.
+> <br><b>Example</b>: <code>git clone https://github.com/exampleuser/example-repository.git</code>
 
 <br/>
 <img align="left" height="50" src="logo/number-two.png" alt="num-two-icon">
@@ -77,6 +78,7 @@ git add .
 > [!NOTE]\
 > <b>Parameters</b>: <br/>
 > '.' Represents the current directory. It specifies that you want to add all changes in the current directory and its subdirectories.
+> <br><b>Example</b>: <code>git add .</code>
 
 <br/>
 <img align="left" height="50" src="logo/number-three.png" alt="num-three-icon">
@@ -91,6 +93,7 @@ git commit -m "Add new feature"
 > [!NOTE]\
 > <b>Parameters</b>: <br/>
 > -m "your commit message": This flag allows you to add a commit message directly from the command line.
+> <br><b>Example</b>: <code>git commit -m "Add and modify files"</code>
 
 <br/>
 <img align="left" height="50" src="logo/number-four.png" alt="num-four-icon">
@@ -104,6 +107,7 @@ git status
 
 > [!NOTE]\
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
+> <br><b>Example</b>: <code>git status</code>
 
 <br/>
 <img align="left" height="50" src="logo/number-five.png" alt="num-five-icon">
@@ -117,6 +121,7 @@ git log
 
 > [!NOTE]\
 > <b>Parameters</b>: <br/> No additional parameters are needed for this command.
+> <br><b>Example</b>: <code>git log</code>
 
 <br />
 <hr><br />
