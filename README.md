@@ -2,7 +2,7 @@
 
 <!-- 🌸 Top Banner -->
 <div align="center">
-  <img src="logo/ending-cat.gif" alt="banner-cat" width="900px"/>
+  
 </div>
 
 <br/>
@@ -15,26 +15,19 @@
   <i>aspiring data scientist · creative developer · UI/UX enthusiast</i>
 </p>
 
-<br/>
-
 <p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
-
----
 
 ## <img height="40" src="logo/facts-icon.png" alt="facts-icon"/> &nbsp;FACTS ABOUT ME
 <img align="right" src="logo/coding-cat.gif" height="225"/>
 
-- <code>🧞 Aspiring Data Scientist</code>
-- <code>👩🏻‍🎓 Computer Science Student</code>
+- <code>👩🏻‍🎓 BS in Computer Science, specializing in Data Science and Analytics</code>
 - <code>🏫 Mapúa Malayan Colleges Laguna</code>
 - <code>😄 Pronouns: She / Her</code>
-- <code>🌟 Interested in UI/UX Design &amp; Web Development</code>
+- <code>🌟 Interested in UI/UX Design, Web Development, and Data Science &amp; Analytics</code>
 
 <br clear="right"/>
 
 <p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
-
----
 
 ## <img height="40" src="logo/skills-icon.png" alt="myskills"/> &nbsp;SKILLS
 
@@ -67,21 +60,6 @@
 <br/>
 
 <p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
-
----
-
-## 🌷 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NMAndosay&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMAndosay&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="165"/>
-</div>
-
-<br/>
-
-<p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
-
----
 
 ## <img height="30" src="logo/contact-icon.png" alt="mycontacts"/> &nbsp;HOW TO CONTACT ME
 
