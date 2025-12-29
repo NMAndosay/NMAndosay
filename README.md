@@ -1,12 +1,15 @@
 <br/>
-<img src="logo/intro-terminal.gif" alt="name-banner" width="900px" align="center" />
-<p align="center"><i>gif from <a href="https://www.terminalgif.com/">terminalgif.com</a></i></p>
+<img src="logo/ending-cat.gif" alt="quotes" align="center" width="900px">
+<hr><br />
+
+Hi~ I am Noela Mae Andosay
+
+<br />
 
 ## <img height="40" src="logo/facts-icon.png" alt="facts-icon">&nbsp;FACTS ABOUT ME
 <img align="right" src="logo/coding-cat.gif" height="225">
 
-- <code>🧞 An aspiring Full-Stack Web Developer</code>
-- <code>🌱 Currently learning Web Development</code>
+- <code>🧞 An aspiring Data Scientist</code>
 - <code>👩🏻‍🎓 College Student Major in Computer Science</code>
 - <code>🏫 Studying at Mapúa Malayan Colleges Laguna</code>
 - <code>😄 Pronouns: She/Her</code>
@@ -49,7 +52,3 @@
 </div>
 
 <br/>
-
-<br />
-<hr><br />
-<img src="logo/ending-cat.gif" alt="quotes" align="center" width="900px">
