@@ -2,7 +2,7 @@
 <img src="logo/ending-cat.gif" alt="quotes" align="center" width="900px">
 <hr><br />
 
-Hi~ I am Noela Mae Andosay
+<h2 align="center">Hi! I am Noela Mae Andosay</h2>
 
 <br />
 
