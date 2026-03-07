@@ -2,7 +2,7 @@
 
 <!-- 🌸 Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Noela%20Mae%20Andosay&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header"/>
 </p>
 
 <br/>
@@ -26,8 +26,6 @@
 - <code>🌟 Interested in UI/UX Design, Web Development, and Data Science &amp; Analytics</code>
 
 <br clear="right"/>
-
-<p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
