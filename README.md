@@ -21,19 +21,17 @@
 <img align="right" src="logo/coding-cat.gif" height="225"/>
 
 - <code>👩🏻‍🎓 BS in Computer Science, specializing in Data Science and Analytics</code>
-- <code>🏫 Mapúa Malayan Colleges Laguna</code>
 - <code>😄 Pronouns: She / Her</code>
-- <code>🌟 Interested in UI/UX Design, Web Development, and Data Science &amp; Analytics</code>
+- <code>🌟 Passionate about Full-Stack Development, Data Science, Analytics, and UI/UX Design</code>
 
 <br clear="right"/>
+
+<p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
-
-
-<p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
 
 ## <img height="40" src="logo/skills-icon.png" alt="myskills"/> &nbsp;SKILLS
 
@@ -42,10 +40,11 @@
 <div align="center">
 
 <!-- Programming Languages -->
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
 
 <!-- Web Development -->
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></code>
@@ -68,19 +67,7 @@
 
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NMAndosay&show_icons=true&theme=rose_pine"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMAndosay&layout=compact&theme=rose_pine"/>
-</p>
-
 <br />
-
-<p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
 
 ## <img height="30" src="logo/contact-icon.png" alt="mycontacts"/> &nbsp;HOW TO CONTACT ME
 
@@ -91,6 +78,8 @@
 </div>
 
 <br/>
+
+<p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
 
 <!-- 🐱 Footer -->
 <div align="center">
