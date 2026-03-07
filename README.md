@@ -1,9 +1,9 @@
 <br/>
 
 <!-- 🌸 Top Banner -->
-<div align="center">
-  
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Noela%20Mae%20Andosay&fontSize=40&fontColor=ffffff"/>
+</p>
 
 <br/>
 
@@ -29,35 +29,58 @@
 
 <p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
+
+<p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
+
 ## <img height="40" src="logo/skills-icon.png" alt="myskills"/> &nbsp;SKILLS
 
-<p><b>&gt;&gt; Learned / Quite Familiar with:</b></p>
+<p><b>>> Learned / Quite Familiar with:</b></p>
 
 <div align="center">
-  <code><a href="https://www.python.org/" target="_blank"><img height="30" src="logo/python-logo.png"/></a></code>
-  <code><a href="https://www.w3schools.com/cs/index.php/" target="_blank"><img height="30" src="logo/csharp-logo.png"/></a></code>
-  <code><a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"><img height="30" src="logo/cpp-logo.png"/></a></code>
-  <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="logo/html-logo.png"/></a></code>
-  <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></a></code>
-  <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="logo/css-logo.png"/></a></code>
-  <code><a href="https://www.arduino.cc/" target="_blank"><img height="30" src="logo/arduino-logo.png"/></a></code>
-  <code><a href="https://www.canva.com/" target="_blank"><img height="30" src="logo/canva-logo.png"/></a></code>
-  <code><a href="https://www.figma.com/" target="_blank"><img height="30" src="logo/figma-logo.jpg"/></a></code>
-  <code><a href="https://code.visualstudio.com/" target="_blank"><img height="30" src="logo/vscode-logo.png"/></a></code>
+
+<!-- Programming Languages -->
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code>
+
+<!-- Web Development -->
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></code>
+
+<!-- Data Science -->
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></code>
+
+<!-- Tools -->
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/></code>
+
+<!-- Design -->
+<code><img height="30" src="https://cdn.simpleicons.org/canva/00C4CC"/></code>
+
 </div>
 
 <br/>
 
-<p><b>&gt;&gt; Looking forward to learn:</b></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NMAndosay&show_icons=true&theme=rose_pine"/>
+</p>
 
-<div align="center">
-  <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img height="30" src="logo/photoshop-logo.png"/></a></code>
-  <code><a href="https://www.adobe.com/ph_en/products/illustrator.html" target="_blank"><img height="30" src="logo/illustrator-logo.png"/></a></code>
-  <code><a href="https://inkscape.org/" target="_blank"><img height="30" src="logo/inkscape-logo.png"/></a></code>
-  <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a></code>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMAndosay&layout=compact&theme=rose_pine"/>
+</p>
 
-<br/>
+<br />
 
 <p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
 
@@ -65,7 +88,7 @@
 
 <div align="center">
   <code><a href="https://www.facebook.com/nmdandosay13/"><img height="30" src="logo/facebook-logo.png"/></a></code>
-  <code><a href="https://www.hackerrank.com/profile/NoelaAndosay"><img height="30" src="logo/hackerrank-logo.png"/></a></code>
+  <code><a href="https://www.linkedin.com/in/noela-mae-andosay-79a770340"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a></code>
   <code><a href="https://github.com/NMAndosay"><img height="30" src="logo/github-logo.png"/></a></code>
 </div>
 
