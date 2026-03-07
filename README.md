@@ -12,7 +12,7 @@
 
 <!-- 🌷 Subtitle -->
 <p align="center">
-  <i>aspiring data scientist · creative developer · UI/UX enthusiast</i>
+  <i>aspiring full-stack developer · data scientist & analyst · UI/UX enthusiast</i>
 </p>
 
 <p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
