@@ -12,7 +12,7 @@
 
 <!-- 🌷 Subtitle -->
 <p align="center">
-  <i>aspiring full-stack developer · data scientist & analyst · UI/UX enthusiast</i>
+  <i>Full-Stack Dev · Data Science & Analytics · UI/UX Enthusiast · Aspiring Data Engineer</i>
 </p>
 
 <p align="center">𓂃𓈒𓏸 🌸 🌷 🌸 𓂃𓈒𓏸</p>
@@ -22,9 +22,9 @@
 
 - <code>👩🏻‍🎓 BS in Computer Science, specializing in Data Science and Analytics</code>
 - <code>😄 Pronouns: She / Her</code>
-- <code>🌟 Passionate about Full-Stack Development, Data Science, Analytics, and UI/UX Design</code>
+- <code>🌟 Passionate about Full-Stack Development, Data Science, Analytics, UI/UX Design, and Data Engineering</code>
 - <code>🤖 Interested in Machine Learning and Artificial Intelligence</code>
-- <code>⚙️ Aspiring Data Engineer — eager to work with data pipelines, ETL, and big data systems</code>
+- <code>⚙️ Eager to work with data pipelines, ETL workflows, and scalable data systems</code>
 
 <br clear="right"/>
 
