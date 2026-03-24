@@ -23,6 +23,8 @@
 - <code>👩🏻‍🎓 BS in Computer Science, specializing in Data Science and Analytics</code>
 - <code>😄 Pronouns: She / Her</code>
 - <code>🌟 Passionate about Full-Stack Development, Data Science, Analytics, and UI/UX Design</code>
+- <code>🤖 Interested in Machine Learning and Artificial Intelligence</code>
+- <code>⚙️ Aspiring Data Engineer — eager to work with data pipelines, ETL, and big data systems</code>
 
 <br clear="right"/>
 
