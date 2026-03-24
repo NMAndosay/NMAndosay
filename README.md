@@ -42,38 +42,38 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<p>
-  <span style="margin:10px;"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br>🐍 Python</span>
-  <span style="margin:10px;"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><br>💎 C#</span>
-  <span style="margin:10px;"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><br>💻 C++</span>
-  <span style="margin:10px;"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br>✨ JavaScript</span>
-  <span style="margin:10px;"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br>🔷 TypeScript</span>
-</p>
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-bottom:15px;">
+  <div style="text-align:center;"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br>🐍 Python</div>
+  <div style="text-align:center;"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><br>💎 C#</div>
+  <div style="text-align:center;"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><br>💻 C++</div>
+  <div style="text-align:center;"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br>✨ JavaScript</div>
+  <div style="text-align:center;"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br>🔷 TypeScript</div>
+</div>
 
 ### 🌐 Web Development
-<p>
-  <span style="margin:10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/><br>🌸 HTML5</span>
-  <span style="margin:10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br>🎀 CSS3</span>
-  <span style="margin:10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><br>💖 React</span>
-</p>
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-bottom:15px;">
+  <div style="text-align:center;"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/><br>🌸 HTML5</div>
+  <div style="text-align:center;"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br>🎀 CSS3</div>
+  <div style="text-align:center;"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><br>💖 React</div>
+</div>
 
 ### 📊 Data & Analytics
-<p>
-  <span style="margin:10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/><br>🐼 Pandas</span>
-  <span style="margin:10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/><br>🔢 NumPy</span>
-  <span style="margin:10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/><br>📓 Jupyter</span>
-  <span style="margin:10px;"><img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"/><br>📊 Power BI</span>
-  <span style="margin:10px;"><img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg"/><br>📈 Excel</span>
-</p>
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-bottom:15px;">
+  <div style="text-align:center;"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/><br>🐼 Pandas</div>
+  <div style="text-align:center;"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/><br>🔢 NumPy</div>
+  <div style="text-align:center;"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/><br>📓 Jupyter</div>
+  <div style="text-align:center;"><img height="50" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"/><br>📊 Power BI</div>
+  <div style="text-align:center;"><img height="50" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg"/><br>📈 Excel</div>
+</div>
 
 ### 🛠 Tools & Design
-<p>
-  <span style="margin:10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/><br>🧷 Git</span>
-  <span style="margin:10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/><br>💻 VSCode</span>
-  <span style="margin:10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/><br>🎨 Figma</span>
-  <span style="margin:10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/><br>🔌 Arduino</span>
-  <span style="margin:10px;"><img height="40" src="https://cdn.simpleicons.org/canva/00C4CC"/><br>💗 Canva</span>
-</p>
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-bottom:15px;">
+  <div style="text-align:center;"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/><br>🧷 Git</div>
+  <div style="text-align:center;"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/><br>💻 VSCode</div>
+  <div style="text-align:center;"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/><br>🎨 Figma</div>
+  <div style="text-align:center;"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/><br>🔌 Arduino</div>
+  <div style="text-align:center;"><img height="50" src="https://cdn.simpleicons.org/canva/00C4CC"/><br>💗 Canva</div>
+</div>
 
 </div>
 
