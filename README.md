@@ -41,31 +41,47 @@
 
 <div align="center">
 
-<!-- Programming Languages -->
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
+### 💻 Programming Languages
+<table>
+  <tr>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br>Python</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><br>C#</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><br>C++</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br>JavaScript</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br>TypeScript</td>
+  </tr>
+</table>
 
-<!-- Web Development -->
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></code>
+### 🌐 Web Development
+<table>
+  <tr>
+    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/><br>HTML5</td>
+    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br>CSS3</td>
+    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><br>React</td>
+  </tr>
+</table>
 
-<!-- Data Science -->
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></code>
+### 📊 Data & Analytics
+<table>
+  <tr>
+    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/><br>Pandas</td>
+    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/><br>NumPy</td>
+    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/><br>Jupyter</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"/><br>Power BI</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg"/><br>Excel</td>
+  </tr>
+</table>
 
-<!-- Tools -->
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/></code>
-
-<!-- Design -->
-<code><img height="30" src="https://cdn.simpleicons.org/canva/00C4CC"/></code>
+### 🛠 Tools & Design
+<table>
+  <tr>
+    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/><br>Git</td>
+    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/><br>VSCode</td>
+    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/><br>Figma</td>
+    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/><br>Arduino</td>
+    <td align="center"><img height="40" src="https://cdn.simpleicons.org/canva/00C4CC"/><br>Canva</td>
+  </tr>
+</table>
 
 </div>
 
